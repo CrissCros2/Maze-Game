@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Maze Gen Forms", "Maze Gen Forms\Maze Gen Forms.vbproj", "{9D20FBD4-C2DD-40E0-9430-15CC78EA1F91}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9D9E307D-6413-4D94-AAB6-03EA29A436F3}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D20FBD4-C2DD-40E0-9430-15CC78EA1F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D20FBD4-C2DD-40E0-9430-15CC78EA1F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D20FBD4-C2DD-40E0-9430-15CC78EA1F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D20FBD4-C2DD-40E0-9430-15CC78EA1F91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BCC31E0-1163-43D4-85B2-13BDC5A4FE9C}
+	EndGlobalSection
+EndGlobal
